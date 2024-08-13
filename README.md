@@ -1,7 +1,7 @@
 <header>
 
 # Hello GitHub Actions
-Barrak
+Barrak Amuyunzu
 
 _Create and run a GitHub Actions workflow._
 
